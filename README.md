@@ -1,6 +1,16 @@
-# Crypto Risk Premia Dashboard
+## Crypto Risk Premia Dashboard
 
-A reproducible, noise-aware dashboard for quantifying crypto risk premia factors using Yahoo Finance data and advanced statistical filtering.
+Quant-grade intelligence for decoding hidden risk premia in crypto  and is fully reproducible, noise-engineered, and built for serious researchers and traders seeking alpha beyond the hype.
+
+### Why This Project?
+Crypto markets are wild, noisy, and poorly mapped — a frontier where meaningful factor signals are buried under extreme volatility and speculative noise. Traditional equity factor models don’t translate cleanly, leaving a gap between theory and actionable insight.
+
+This dashboard closes that gap by delivering:
+- Clean, factor-based analytics that extract systematic drivers of crypto returns.
+- Noise-aware filtering to reveal true premia signals masked by daily chaos.
+- Reproducible, research-ready frameworks ideal for academic studies, quant funds, and high-level strategy design.
+- A single interactive environment that unifies market, momentum, low-volatility, and network-value factors — and lets you extend to new ones as the space evolves.
+
 
 ## Features
 - Fetches and cleans OHLCV data for major cryptos (BTC, ETH, altcoins) via yfinance
@@ -42,7 +52,15 @@ A reproducible, noise-aware dashboard for quantifying crypto risk premia factors
 - EPFL Blockchain Analytics, 2025: 'Factor Investing in Digital Assets'
 
 ## Next Steps
-- Add more advanced noise reduction (Kalman, wavelets)
+🔜  Add more advanced noise reduction (Kalman, wavelets)Roadmap
+
+🔜 Factor correlation heatmaps & regime detection
+
+🔜 Machine learning–driven factor forecasts
+
+🔜 Integration with DeFi metrics (on-chain activity, TVL factors)
+
+🔜 Portfolio optimizer with transaction cost modeling
 
 ---
 
