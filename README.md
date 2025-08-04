@@ -51,8 +51,8 @@ This dashboard closes that gap by delivering:
 - Sydney Quantitative Finance Symposium, 2023: 'Noise Reduction in Crypto Factor Models'
 - EPFL Blockchain Analytics, 2025: 'Factor Investing in Digital Assets'
 
-## Next Steps
-🔜  Add more advanced noise reduction (Kalman, wavelets)Roadmap
+## Roadmap: Next Steps
+🔜  Add more advanced noise reduction (Kalman, wavelets)
 
 🔜 Factor correlation heatmaps & regime detection
 
