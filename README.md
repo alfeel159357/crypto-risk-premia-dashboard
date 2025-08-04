@@ -1,8 +1,3 @@
-# Disclaimer
-This project is intended solely for educational purposes and as an innovative guide for 
-quantitative researchers. It does not constitute investment advice or a recommendation to 
-buy, sell, or hold any financial asset. Users should conduct their own due diligence and 
-consult professional advisors before making investment decisions.
 # Crypto Risk Premia Dashboard
 
 A reproducible, noise-aware dashboard for quantifying crypto risk premia factors using Yahoo Finance data and advanced statistical filtering.
@@ -16,6 +11,15 @@ A reproducible, noise-aware dashboard for quantifying crypto risk premia factors
 - Expanded dashboard pages: Market Risk Premium, Momentum, Low Volatility, Network Value, Factor Portfolio
 - Dark institutional theme for quant feel
 - Extensible: add new factors, filters, or data sources easily
+
+-----
+
+<img width="942" height="428" alt="dashboard" src="https://github.com/user-attachments/assets/3b778220-2181-49db-8aba-3792971f7287" />
+
+-----
+
+<img width="953" height="425" alt="factor_combination_crypto_risk_premia" src="https://github.com/user-attachments/assets/f70698af-6538-4172-bd5a-14f7c4d181fd" />
+
 
 ## Data Pipeline
 1. **Source:** Yahoo Finance (yfinance) for daily/hourly OHLCV
@@ -43,3 +47,15 @@ A reproducible, noise-aware dashboard for quantifying crypto risk premia factors
 ---
 
 *For quant students, researchers, and funds seeking robust, noise-aware crypto analytics.*
+
+# Disclaimer
+This project is intended solely for educational purposes and as an innovative guide for 
+quantitative researchers. It does not constitute investment advice or a recommendation to 
+buy, sell, or hold any financial asset. Users should conduct their own due diligence and 
+consult professional advisors before making investment decisions.
+
+---
+
+#### GitHub: https://github.com/QuantDevJayson
+#### PyPI: https://pypi.org/user/jayson.ashioya
+#### LinkedIn: https://www.linkedin.com/in/jayson-ashioya-c-082814176/
